@@ -1,0 +1,48 @@
+* [33m75d8b1f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m renaming some shit
+* [33m882dea8[m Just commit all
+* [33m31f82ba[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Adding start text file
+* [33m9b2ad27[m Update README.md
+*   [33mfeacd40[m Merge pull request #2 from antigenius0910/patch-2
+[32m|[m[33m\[m  
+[32m|[m * [33mb5430f6[m Update Jenkins_Installation.MD
+* [33m|[m   [33m8f4b742[m Merge pull request #3 from pramuditorh/patch-1
+[34m|[m[35m\[m [33m\[m  
+[34m|[m * [33m|[m [33m503365c[m Fix typo
+[34m|[m [33m|[m[33m/[m  
+* [33m|[m   [33mf20074e[m Merge pull request #5 from gurupratap-matharu/master
+[36m|[m[1;31m\[m [33m\[m  
+[36m|[m * [33m|[m [33mc766832[m typo in boolean value
+[36m|[m [33m|[m[33m/[m  
+* [33m|[m   [33me36e423[m Merge pull request #6 from voa2000/patch-2
+[33m|[m[1;33m\[m [33m\[m  
+[33m|[m [1;33m|[m[33m/[m  
+[33m|[m[33m/[m[1;33m|[m   
+[33m|[m * [33mea8382a[m spelling of PATH
+[33m|[m[33m/[m  
+* [33m6b3ba80[m Create Dockerfile
+* [33m4d6871f[m Create create-simple-devops-image.yml
+* [33mb16764c[m Update kubernetes-valaxy-deployment.yml
+* [33mfc49e65[m Update valaxy-deploy.yml
+* [33m0531010[m Update kubernetes-valaxy-deployment.yml
+* [33ma85195a[m Update valaxy-deploy.yml
+* [33m8158e82[m Update kubernetes-valaxy-deployment.yml
+* [33m489a5f8[m updating kubernetes documentation
+* [33m676a492[m updating kubernetes documentation
+* [33m8887fd6[m updating kubernetes documentation
+* [33m0f6e16c[m Update Kubernetes-setup.MD
+* [33m5114cc2[m Update Kubernetes-setup.MD
+* [33m004da0b[m updated kubernetes documentation
+* [33mb57d03d[m added new file
+* [33m782c0ce[m adding deployment and service files
+* [33mebca3d9[m modified Ansible_installation
+* [33m40f4c94[m Added Jenkins job documnets
+* [33mc6f4a18[m Simple DevOps Project latest commit
+* [33ma82015c[m Update Sonar_Integration_with_Jenkins.MD
+* [33m7588ef0[m Update Sonar_Integration_with_Jenkins.MD
+* [33m9598c7b[m updated according to sonar version 6.7.6
+* [33m8d486b2[m updated maven path
+* [33mafa8dbf[m updated tomcat file
+* [33m88e9acb[m mave file updated
+* [33mbabd5e1[m updated Jenkins installation document
+* [33m6421259[m Simple DevOps Project docs initial commit
+* [33m24b1475[m Initial readme commit
